@@ -1,0 +1,28 @@
+PODS:
+  - Alamofire (4.9.1)
+  - MBProgressHUD (1.2.0)
+  - SnapKit (4.2.0)
+  - TTGSnackbar (1.7.3)
+
+DEPENDENCIES:
+  - Alamofire
+  - MBProgressHUD
+  - SnapKit
+  - TTGSnackbar
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - MBProgressHUD
+    - SnapKit
+    - TTGSnackbar
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
+  SnapKit: fe8a619752f3f27075cc9a90244d75c6c3f27e2a
+  TTGSnackbar: a66e929fd17d662152ec0964990a86e966310edb
+
+PODFILE CHECKSUM: 56afc945e5afef8a9fb77298dd0219431e1a92f4
+
+COCOAPODS: 1.9.3
